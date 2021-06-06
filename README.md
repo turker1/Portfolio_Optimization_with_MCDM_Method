@@ -9,11 +9,17 @@ One of the main problem of Markowitz Portfolio Optimization is that it focuses o
 For these reasons, i aim to add another step into this process which is a Multi Criteria Decision Making (MCDM) method called TOPSIS (Technique for Order Preference by Similarity to An Ideal Solution). Multi-criteria decision making (MCDM) refers to making choice of the best alternative from among a finite set of decision alternatives in terms of multiple, usually conflicting criteria. The main steps in multi-criteria decision making are the following
 
 – establish system evaluation criteria that relate system capabilities to goals,
+
 – develop alternative systems for attaining the goals (generating alternatives),
+
 – evaluate alternatives in terms of criteria,
+
 – apply one of the normative multiple criteria analysis methods,
+
 – accept one alternative as “optimal” (preferred),
+
 – if the final solution is not accepted, gather new information and go to the next iteration of multiple criteria optimization. 
+
 
 In my study, i will use TOPSIS method to evaluate firms in a financial analysis perspective by using some firm-level characteristics. TOPSIS method process basically as follows;
 construct a decision matrix (first column consist of alternatives-firms and each column will consist of different evaluation criteria), normalization of decision matrix, calculate weighted normalized decision matrix, determine positive and negative ideal solutions, calculate the separation measures from the positive ideal solution and the negative ideal solution, calculate the relative closeness to the positive ideal solution and lastly rank the preference order.
